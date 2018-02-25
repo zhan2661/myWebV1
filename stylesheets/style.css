@@ -60,12 +60,12 @@ header,
 .top-nav-collapse{
      background-color:#64b5f6  ;
 }
-.navbar .fa{
 
- -webkit-animation: bounce 3s ;
+.navbar .nav-link{
+
+ -webkit-animation: bounce 2.8s ease-in-out;
 
 }
-
 .scrolltop {
 	display:none;
 	width:100%;
