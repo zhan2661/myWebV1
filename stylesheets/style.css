@@ -60,6 +60,11 @@ header,
 .top-nav-collapse{
      background-color:#64b5f6  ;
 }
+.navbar .fa{
+
+ -webkit-animation: bounce 3s ;
+
+}
 
 .scrolltop {
 	display:none;
@@ -104,6 +109,15 @@ header,
 	-o-transition: 0.5s; 	
 }
 
+#info .col-md-8 .badge{
+
+    -webkit-animation: swing 1s infinite ease-in-out;
+
+}
+#Eduction  .fa{
+     color:#f9a825;
+
+}
 .lead-down {
     position: absolute;
     left: 0;

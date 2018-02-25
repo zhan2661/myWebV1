@@ -1,7 +1,7 @@
 
 function car(){
 $('.carousel').carousel({
-            interval:false,
+            interval:10000,
         })
 
 }
