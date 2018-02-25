@@ -66,6 +66,10 @@ header,
  -webkit-animation: bounce 2.8s ease-in-out;
 
 }
+#Project .fa-android{
+  
+   -webkit-animation: wobble 1.2s infinite ease-in-out;
+}
 .scrolltop {
 	display:none;
 	width:100%;
